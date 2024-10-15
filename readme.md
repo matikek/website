@@ -38,4 +38,4 @@ Jeśli chcesz uruchomić projekt lokalnie, oto jak możesz to zrobić:
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoj-user/wypozyczalnia-sportowych-aut.git
+   git clone https://github.com/matikek/website
