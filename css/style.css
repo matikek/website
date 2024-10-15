@@ -16,4 +16,11 @@ body {
   font-size: 24px;
   text-transform: uppercase;
   color: #f3f2f2;
+}
+
+p {
+  font-size: 18px;
+  text-transform: uppercase;
+  color: royalblue;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
